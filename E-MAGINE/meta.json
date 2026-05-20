@@ -1,0 +1,11 @@
+{
+  "title": "E-MAGINE Healthcare Network Redesign",
+  "course": "CYB330L",
+  "type": "academic",
+  "status": "completed",
+  "tags": ["network", "security"],
+  "description": "Designed and implemented a multi-site HIPAA-compliant network for a simulated healthcare organization across four locations: Main, Orlando, Chicago, and a dedicated Data Center.",
+  "tags_display": ["Cisco Packet Tracer", "EIGRP", "VLANs", "ASA Firewall", "TACACS+", "ACLs", "HIPAA", "DMZ"],
+  "slug": "e-magine",
+  "page": "e-magine.html"
+}
